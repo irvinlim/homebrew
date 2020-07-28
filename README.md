@@ -3,5 +3,5 @@
 ## Usage
 
 ```
-brew tap irvinlim/homebrew
+brew tap irvinlim/apps
 ```
