@@ -1,4 +1,4 @@
-class Lnav < Formula
+class LnavPinned < Formula
   # Pinned to 0.8.4, see https://github.com/tstack/lnav/issues/638
   desc "Curses-based tool for viewing and analyzing log files"
   homepage "https://lnav.org/"
