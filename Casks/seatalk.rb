@@ -1,6 +1,6 @@
 cask "seatalk" do
-    version "1.43.1"
-    sha256 "2d289f12dffd9be10015b059fb0a87ba8b262478a6a29e7d4a63eee645f069e9"
+    version "1.44.0"
+    sha256 "dad9f08ae5e9ae24d1938274afd0b6f5ce0c86ca0ac53d55945da00392579dcd"
 
     url "https://static.cdn.haiserve.com/seatalk/static/client/desktop/global/darwin-x64-prod-#{version}/SeaTalk-#{version}.dmg"
     name "SeaTalk"
